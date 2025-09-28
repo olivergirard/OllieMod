@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _name: OllieMod
   _author: azurei
-  _version: 1.1.1
+  _version: 1.2.3
   _description: A collection of mods for use between my friends and I. :D
   _websiteUrl: https://thunderstore.io/c/repo/p/azurei/OllieMod/
   _dependencies:
